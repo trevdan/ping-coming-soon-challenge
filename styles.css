@@ -1,0 +1,13 @@
+body {
+    display: block;
+    align-contents: center;
+}
+
+.emailSubmit {
+    height: 30px;
+    width: 120px;
+    background: hsl(223, 87%, 63%);
+    border: 0;
+    border-radius: 20px;
+
+}
