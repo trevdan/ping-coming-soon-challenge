@@ -1,6 +1,7 @@
-body {
-    display: block;
-    align-contents: center;
+body p,
+body form {
+    display: flex;
+    justify-content: center;
 }
 
 .emailSubmit {
@@ -9,5 +10,6 @@ body {
     background: hsl(223, 87%, 63%);
     border: 0;
     border-radius: 20px;
+    color: white;
 
 }
